@@ -1,4 +1,3 @@
-# Aldrian Arevalo - Resume Website
+# Aldrian Arevalo - Portfolio Website
 
-**[▶ Live Demo](https://komiwalnut-dev.app)**  
-**[📄 PDF Resume](/public/resume.pdf)**
+**[▶ Live Demo](https://portfolio-komiwalnut-projects.vercel.app/)**
