@@ -1,3 +1,3 @@
-# Aldrian Arevalo - Portfolio Website
+# komiwalnut - Portfolio Website
 
-**[▶ Live Demo](https://portfolio-komiwalnut-projects.vercel.app/)**
+**[▶ Live](komiwalnut-portfolio.vercel.app/)**
