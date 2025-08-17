@@ -1,3 +1,3 @@
 # komiwalnut - Portfolio Website
 
-**[▶ Live](komiwalnut-portfolio.vercel.app/)**
+**[▶ Live](www.komiwalnut.dev/)**
