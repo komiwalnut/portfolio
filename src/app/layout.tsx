@@ -25,13 +25,13 @@ export const metadata: Metadata = {
     apple: '/favicon.png',
   },
   openGraph: {
-    title: 'komiwalnut',
+    title: 'komiwalnut - Python Developer',
     description: 'Python Developer',
     url: 'https://www.komiwalnut.dev',
     siteName: 'komiwalnut',
     images: [
       {
-        url: '/favicon.png',
+        url: 'https://www.komiwalnut.dev/favicon.png',
         width: 1200,
         height: 630,
         alt: 'komiwalnut',
@@ -44,7 +44,9 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'komiwalnut',
     description: 'Python Developer',
-    images: ['/favicon.png'],
+    site: '@komiwalnut',
+    creator: '@komiwalnut',
+    images: ['https://www.komiwalnut.dev/favicon.png'],
   },
 };
 
