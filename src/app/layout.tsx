@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     apple: '/favicon.png',
   },
   openGraph: {
-    title: 'komiwalnut - Python Developer',
+    title: 'Portfolio',
     description: 'Python Developer',
     url: 'https://www.komiwalnut.dev',
     siteName: 'komiwalnut',
