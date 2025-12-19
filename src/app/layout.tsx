@@ -18,7 +18,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: 'komiwalnut',
-  description: 'Python Developer',
+  description: 'AI/ML Engineer',
   icons: {
     icon: '/favicon.png',
     shortcut: '/favicon.png',
@@ -26,14 +26,14 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Portfolio',
-    description: 'Python Developer',
+    description: 'AI/ML Engineer',
     url: 'https://www.komiwalnut.dev',
     siteName: 'komiwalnut',
     images: [
       {
         url: 'https://www.komiwalnut.dev/favicon.png',
-        width: 1200,
-        height: 630,
+        width: 512,
+        height: 512,
         alt: 'komiwalnut',
         type: 'image/png',
       },
@@ -44,14 +44,14 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'komiwalnut',
-    description: 'Python Developer',
+    description: 'AI/ML Engineer',
     site: '@komiwalnut',
     creator: '@komiwalnut',
     images: ['https://www.komiwalnut.dev/favicon.png'],
   },
   other: {
-    'og:image:width': '1200',
-    'og:image:height': '630',
+    'og:image:width': '512',
+    'og:image:height': '512',
     'og:image:type': 'image/png',
   },
 };
