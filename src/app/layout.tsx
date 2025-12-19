@@ -17,24 +17,24 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'komiwalnut',
-  description: 'AI/ML Engineer',
+  title: 'komiwalnut - Python Developer Portfolio',
+  description: 'Python Developer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
   icons: {
     icon: '/favicon.png',
     shortcut: '/favicon.png',
     apple: '/favicon.png',
   },
   openGraph: {
-    title: 'Portfolio',
-    description: 'AI/ML Engineer',
+    title: 'komiwalnut - Python Developer Portfolio',
+    description: 'Python Developer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
     url: 'https://www.komiwalnut.dev',
     siteName: 'komiwalnut',
     images: [
       {
         url: 'https://www.komiwalnut.dev/favicon.png',
-        width: 512,
-        height: 512,
-        alt: 'komiwalnut',
+        width: 1200,
+        height: 630,
+        alt: 'komiwalnut - Python Developer',
         type: 'image/png',
       },
     ],
@@ -43,15 +43,15 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'komiwalnut',
-    description: 'AI/ML Engineer',
+    title: 'komiwalnut - Python Developer Portfolio',
+    description: 'Python Developer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
     site: '@komiwalnut',
     creator: '@komiwalnut',
     images: ['https://www.komiwalnut.dev/favicon.png'],
   },
   other: {
-    'og:image:width': '512',
-    'og:image:height': '512',
+    'og:image:width': '1200',
+    'og:image:height': '630',
     'og:image:type': 'image/png',
   },
 };
