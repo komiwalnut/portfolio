@@ -17,16 +17,16 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'komiwalnut - AI/ML Engineer Portfolio',
-  description: 'AI/ML Engineer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
+  title: 'komiwalnut - Full Stack LLM Developer Portfolio',
+  description: 'Full Stack LLM Developer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
   icons: {
     icon: '/favicon.png',
     shortcut: '/favicon.png',
     apple: '/favicon.png',
   },
   openGraph: {
-    title: 'komiwalnut - AI/ML Engineer Portfolio',
-    description: 'AI/ML Engineer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
+    title: 'komiwalnut - Full Stack LLM Developer Portfolio',
+    description: 'Full Stack LLM Developer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
     url: 'https://www.komiwalnut.dev',
     siteName: 'komiwalnut',
     images: [
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
         url: 'https://www.komiwalnut.dev/favicon.png',
         width: 1200,
         height: 630,
-        alt: 'komiwalnut - AI/ML Engineer',
+        alt: 'komiwalnut - Full Stack LLM Developer',
         type: 'image/png',
       },
     ],
@@ -43,8 +43,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'komiwalnut - AI/ML Engineer Portfolio',
-    description: 'AI/ML Engineer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
+    title: 'komiwalnut - Full Stack LLM Developer Portfolio',
+    description: 'Full Stack LLM Developer specializing in Python, FastAPI, React, and TypeScript. Building scalable backend services and modern web applications.',
     site: '@komiwalnut',
     creator: '@komiwalnut',
     images: ['https://www.komiwalnut.dev/favicon.png'],
